@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @kimeunji17
+- 👀 I’m interested in C#, Java, Web,..
+- 🌱 I’m currently learning IT ở UTT
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me kimeunji1704@gmail.com
